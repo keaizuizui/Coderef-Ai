@@ -125,7 +125,6 @@ coderef_docs(project_path="/path/to/project", background=True)
 # → coderef-report/health_dashboard_{timestamp}.html
 
 # 5. 直接询问你的编程AI：请你阅读这个项目的报告，把漏报写进白名单，把问题归类为4种（①你可以自行处理 ②需要我介入 ③很复杂或者很严重，需要我参与讨论 ④新建一个暂存区，看看是误报还是真没有意义需要删除的东西）
-# → coderef-report/health_dashboard_{timestamp}.html
 ```
 
 
