@@ -1,4 +1,4 @@
-这是一个vibecoding中自然产出辅助功能，仅作为 vibe coding 治理方向的引子，不保证长期维护
+这是一个vibecoding中自然产出的辅助工具，仅作为 vibe coding 治理方向的引子，不保证长期维护
 # 这是一个可以帮完全不懂编程的vibecoding人员，静态审计项目，重建项目wiki和各模块文档的工具，可以通过MCP对接你的编程AI。
 This is a tool designed to help vibecoding personnel with no programming background statically audit projects, rebuild project wikis, and document each module, and it can connect with your programming AI through MCP.
 # 建议:自行拷贝本地后，交由本地编程AI复查并改造其实现逻辑是否符合当前项目
