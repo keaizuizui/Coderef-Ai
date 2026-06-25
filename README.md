@@ -1,3 +1,6 @@
+# 这是一个可以帮完全不懂编程的vibecoding人员，静态审计项目，重建项目wiki和各模块文档的工具，可以通过MCP对接你的编程AI。
+This is a tool designed to help vibecoding personnel with no programming background statically audit projects, rebuild project wikis, and document each module, and it can connect with your programming AI through MCP.
+
 # CodeRef AI — 编程 AI 外置大脑 & 非编程人员技术助理
 
 **Version 3.1** | Python 3.10+ | MCP Protocol | Apache 2.0
@@ -120,7 +123,11 @@ coderef_docs(project_path="/path/to/project", background=True)
 
 # 4. 查看健康仪表盘
 # → coderef-report/health_dashboard_{timestamp}.html
+
+# 5. 直接询问你的编程AI：请你阅读这个项目的报告，把漏报写进白名单，把问题归类为4种（①你可以自行处理 ②需要我介入 ③很复杂或者很严重，需要我参与讨论 ④新建一个暂存区，看看是误报还是真没有意义需要删除的东西）
+# → coderef-report/health_dashboard_{timestamp}.html
 ```
+
 
 ## 审计管线
 
