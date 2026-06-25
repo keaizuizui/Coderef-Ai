@@ -1,0 +1,28 @@
+# ─── Cache：用户专属数据，开源时删除此目录即可 ───
+cache/
+
+# ─── Python ───
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ─── 运行时数据 ───
+data/analysis_cache/
+data/incremental_cache/
+data/chroma/
+logs/
+*.log
+
+# ─── 报告输出 ───
+coderef-report/
+
+# ─── IDE ───
+.vscode/
+.idea/
+
+# ─── 系统 ───
+Thumbs.db
+.DS_Store

@@ -1,0 +1,21 @@
+# CodeRef AI - 智能代码分析引擎
+# 依赖清单
+
+# 代码解析（注意：tree-sitter 需保持在 0.20.x，新版本不兼容 tree-sitter-languages）
+tree-sitter==0.20.4
+tree-sitter-languages>=1.10.0
+
+# LLM集成
+openai>=1.10.0
+ollama>=0.1.7
+
+# 数据处理
+requests>=2.31.0
+pandas>=2.2.0
+numpy>=1.26.0
+pyyaml>=6.0.1
+
+# 工具
+tqdm>=4.66.0
+loguru>=0.7.2
+pathspec>=0.12.1
